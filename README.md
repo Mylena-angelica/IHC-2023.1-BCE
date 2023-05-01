@@ -16,7 +16,7 @@
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-            <a href="">
+            <a href="https://github.com/CarolCoCe">
                 <img style="border-radius: 50%;" src="" width="150px;"/>
                 <h5 class="text-center">Ana Carolina</h5>
             </a>
@@ -39,12 +39,7 @@
                 <h5 class="text-center">Filipi</h5>
             </a>
         </td>
-        <td align="center">
-            <a href="https://github.com/kaua-pt">
-                <img style="border-radius: 50%;" src="https://github.com/kaua-pt.png" width="150px;"/>
-                <h5 class="text-center">Kauã Vinícius ✠ </h5>
-            </a>
-        </td>
+      
         <td align="center">
             <a href="https://github.com/Mylena-angelica">
                 <img style="border-radius: 50%;" src="https://github.com/Mylena-angelica.png" width="150px;"/>
