@@ -15,37 +15,36 @@
 <center>
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
-        <td align="center">
+    <td align="center">
             <a href="https://github.com/CarolCoCe">
-                <img style="border-radius: 50%;" src="" width="150px;"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65306804?v=4" width="150px;"/>
                 <h5 class="text-center">Ana Carolina</h5>
             </a>
-        </td>
+        </td>        
         <td align="center">
             <a href="https://github.com/anafernanndess">
                 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90392277?v=4" width="150px;"/>
                 <h5 class="text-center">Ana Luízaa</h5>
             </a>
-        </td>
+        </td>        
         <td align="center">
             <a href="https://github.com/GabrielGaba">
                 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54045772?v=4" width="150px;"/>
                 <h5 class="text-center">Gabriel</h5>
             </a>
-        </td>
+        </td>        
         <td align="center">
             <a href="https://github.com/JoseFilipi14">
                 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/127106385?v=4" width="150px;"/>
                 <h5 class="text-center">Filipi</h5>
             </a>
-        </td>
-      
+        </td>      
         <td align="center">
             <a href="https://github.com/Mylena-angelica">
-                <img style="border-radius: 50%;" src="https://github.com/Mylena-angelica.png" width="150px;"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86479209?v=4" width="150px;"/>
                 <h5 class="text-center">Mylena Angelica</h5>
             </a>
-        </td>
+        </td>        
          <td align="center">
             <a href="https://github.com/TalesRG">
                 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70861660?v=4" width="150px;"/>
